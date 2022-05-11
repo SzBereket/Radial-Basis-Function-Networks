@@ -1,2 +1,2 @@
-# Radial-Basis-Function-Networks
-I researched and produced a report on the subject of "Radial-Based Function Networks" under the direction of Dr. Buket SONBAS for the Electrical and Electronics Engineering Project Course of Harran University.
+# Radial Basis Function Networks
+For the Harran University Electrical and Electronics Engineering Project Course, I researched "Radial-Based Function Networks" under the management of Dr. Buket SONBAŞ, organized code studies and created a report.
